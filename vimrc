@@ -29,7 +29,7 @@ set mat=2
 nmap <leader>w :w!<cr>
 
 " put .undo files here
-set undodir=~/.vim/undo
+"set undodir=~/.vim/undo
 " no arrow keys fool.
 map <Left> <Nop>
 map <Right> <Nop>
